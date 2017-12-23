@@ -1,4 +1,4 @@
-#
+#This file works, please update pip install gdax
 # gdax/order_book.py
 # David Caseria
 #
